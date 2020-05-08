@@ -1,0 +1,9 @@
+username: staff1
+password: password1
+email: staff1@email.com
+Full Name: FirstName1 LastName1
+
+username: staff2
+password: password2
+email: staff2@email.com
+Full Name: FirstName2 LastName2
